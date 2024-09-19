@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-1712&label=Profile%20views&color=0e75b6&style=flat" alt="krish-1712" /> </p>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPER (MERN)**
+- 🌱 I’m **FULL STACK DEVELOPER (MERN)**
 
 - 👨‍💻 My Portfolio [https://delightful-syrniki-738a0a.netlify.app/](https://delightful-syrniki-738a0a.netlify.app/)
 
