@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPER (MERN)**
 
-- 👨‍💻 All of my projects are available at [https://delightful-syrniki-738a0a.netlify.app/](https://delightful-syrniki-738a0a.netlify.app/)
+- 👨‍💻 My Portfolio [https://delightful-syrniki-738a0a.netlify.app/](https://delightful-syrniki-738a0a.netlify.app/)
 
 - 📫 How to reach me **krishkannan1712@gmail.com**
 
