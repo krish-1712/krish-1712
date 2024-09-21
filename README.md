@@ -5,7 +5,7 @@
 
 - 🌱 I’m **FULL STACK DEVELOPER (MERN)**
 
-- 👨‍💻 My Portfolio [https://delightful-syrniki-738a0a.netlify.app/](https://delightful-syrniki-738a0a.netlify.app/)
+- 👨‍💻 My Portfolio https://superb-dodol-94d5ec.netlify.app/
 
 - 📫 How to reach me **krishkannan1712@gmail.com**
 
